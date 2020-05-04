@@ -1,0 +1,18 @@
+.container-post p {
+    font-size: 20px;
+    text-align: center;
+}
+
+.posts{
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 400px 400px;
+    
+}
+.bts{
+    margin: 30px;
+}
+.btn-info,.btn-danger{
+    width:47%;
+    
+}
